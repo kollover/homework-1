@@ -1,0 +1,4 @@
+#Задание 1
+number = input("Введите число: ")
+city = input("Введите город: ")
+print(f"Город {city}, число: {number}")
